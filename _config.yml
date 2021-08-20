@@ -99,8 +99,8 @@ theme: jekyll-theme-slate
 
 prose:
   rooturl: ''
-  siteurl: 'http://scotentSD.github.io/opportunity/'
-  relativeLinks: 'http://scotentSD.github.io/opportunity/links.jsonp'
+  siteurl: 'http://scotentSD.github.io/sep/'
+  relativeLinks: 'http://scotentSD.github.io/sep/links.jsonp'
   media: 'files'
   ignore: [links.jsonp,  _config.yml,  media,  assets,  _sass,  _layouts, _includes, _flist, images, mktest, data.json, data2.json, data2.jsonp, timeline.css, links_copy.jsonp, js]
   metadata:
